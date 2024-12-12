@@ -9,4 +9,4 @@ Thank you for visiting my repository! 😊 This app is designed to:
 - Provide customization options for playlists and themes.
 - Serve as a portfolio piece showcasing my Android development skills.
 
-Check the sections below to learn more about the project and how you can run it locally!
+Check the files above to learn more about the project and how you can run it locally!
